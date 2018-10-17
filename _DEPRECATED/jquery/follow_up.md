@@ -14,7 +14,7 @@ As usual, the important thing now is to keep practicing what you’ve learnt, at
 You can also continue learning jQuery via these online resources:
 - [jQFundamentals](http://jqfundamentals.com/)
 - [jQuery](http://www.codecademy.com/tracks/jquery)
- -[15 jQuery Resources](http://net.tutsplus.com/tutorials/javascript-ajax/15-resources-to-get-you-started-with-jquery-from-scratch/)
+- [15 jQuery Resources](http://net.tutsplus.com/tutorials/javascript-ajax/15-resources-to-get-you-started-with-jquery-from-scratch/)
 
 The upcoming AJAX workshop [TODO: add meetup url] will show you how to pull data into your site, using either native DOM API or jQuery.
 
